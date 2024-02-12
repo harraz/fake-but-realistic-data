@@ -1,0 +1,12 @@
+DATE,PATIENT,ENCOUNTER,CATEGORY,CODE,DESCRIPTION,VALUE,UNITS,TYPE
+2018-11-13T17:05:29Z,eb213104-eb73-734f-3b27-222b5f2ec7ab,2defab7d-573f-251f-cb9b-c34e0fe3a71b,laboratory,6690-2,Leukocytes [#/volume] in Blood by Automated count,8.9,10*3/uL,numeric
+2018-11-13T17:05:29Z,eb213104-eb73-734f-3b27-222b5f2ec7ab,2defab7d-573f-251f-cb9b-c34e0fe3a71b,laboratory,789-8,Erythrocytes [#/volume] in Blood by Automated count,5.1,10*6/uL,numeric
+2018-11-13T17:05:29Z,eb213104-eb73-734f-3b27-222b5f2ec7ab,2defab7d-573f-251f-cb9b-c34e0fe3a71b,laboratory,718-7,Hemoglobin [Mass/volume] in Blood,13.8,g/dL,numeric
+2018-11-13T17:05:29Z,eb213104-eb73-734f-3b27-222b5f2ec7ab,2defab7d-573f-251f-cb9b-c34e0fe3a71b,laboratory,4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,42.1,%,numeric
+2018-11-13T17:05:29Z,eb213104-eb73-734f-3b27-222b5f2ec7ab,2defab7d-573f-251f-cb9b-c34e0fe3a71b,laboratory,787-2,MCV [Entitic volume] by Automated count,83.4,fL,numeric
+2018-11-13T17:05:29Z,eb213104-eb73-734f-3b27-222b5f2ec7ab,2defab7d-573f-251f-cb9b-c34e0fe3a71b,laboratory,785-6,MCH [Entitic mass] by Automated count,32.2,pg,numeric
+2018-11-13T17:05:29Z,eb213104-eb73-734f-3b27-222b5f2ec7ab,2defab7d-573f-251f-cb9b-c34e0fe3a71b,laboratory,786-4,MCHC [Mass/volume] by Automated count,34.3,g/dL,numeric
+2018-11-13T17:05:29Z,eb213104-eb73-734f-3b27-222b5f2ec7ab,2defab7d-573f-251f-cb9b-c34e0fe3a71b,laboratory,21000-5,Erythrocyte distribution width [Entitic volume] by Automated count,44.8,fL,numeric
+2018-11-13T17:05:29Z,eb213104-eb73-734f-3b27-222b5f2ec7ab,2defab7d-573f-251f-cb9b-c34e0fe3a71b,laboratory,777-3,Platelets [#/volume] in Blood by Automated count,327.9,10*3/uL,numeric
+2018-11-13T17:05:29Z,eb213104-eb73-734f-3b27-222b5f2ec7ab,2defab7d-573f-251f-cb9b-c34e0fe3a71b,laboratory,32207-3,Platelet distribution width [Entitic volume] in Blood by Automated count,464.8,fL,numeric
+2018-11-13T17:05:29Z,eb213104-eb73-734f-3b27-222b5f2ec7ab,2defab7d-573f-251f-cb9b-c34e0fe3a71b,laboratory,32623-1,Platelet mean volume [Entitic volume] in Blood by Automated count,10.8,fL,numeric
