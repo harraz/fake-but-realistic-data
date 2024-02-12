@@ -1,0 +1,12 @@
+patientid,last_name,first_name,sex,dob,city,postal_code,state
+7,Einstein,Albert,Male,1972-03-16,Wayne,19087,PA
+8,Curie,Marie,Female,1955-05-23,Crestview,32536,FL
+9,Newton,Isaac,Male,1942-09-29,Meadowbrook,60062,IL
+10,Franklin,Rosalind,Female,1957-08-30,Riverdale,30274,GA
+11,Tesla,Nikola,Male,1949-03-03,Brookside,90210,CA
+12,Parks,Rosa,Female,1960-03-21,Pinecrest,10001,NY
+13,Shakespeare,William,Male,1952-08-20,Oakwood,75001,TX
+14,Winfrey,Oprah,Female,1949-11-12,Lakeside,98007,WA
+15,DaVinci,Leonardo,Male,1960-03-22,Fairview,80301,CO
+16,Keller,Helen,Female,1973-09-28,Summitville,97701,OR
+17,Gandhi,Mahatma,Male,1961-06-01,Malvern,19355,PA
