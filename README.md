@@ -1,7 +1,3 @@
-Certainly! Here's a README file template for the provided code snippet:
-
----
-
 # Synthetic Data Generation with SDV
 
 ## Overview
@@ -69,7 +65,3 @@ synthetic_data = synthesizer.sample(num_rows=10)
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify the README as needed to include more details about your project or provide additional instructions.
